@@ -33,7 +33,7 @@ We have two concerns in this app:
 
 We can think of the first concern as a "model" concern; that is, a concern about how we describe the data structure we're working with. The second is best thought of as a "view" concern, since it deals with what is shown to the user, in this case, interactively.
 
-Since we're using `browserify`, separating our code into different files is easy. All we have to do is create separate files for each concern and then move our code into the appropriate place.
+Since we're using `webpack`, separating our code into different files is easy. All we have to do is create separate files for each concern and then move our code into the appropriate place.
 
 We'll be presented with an opportunity to observe another refactoring, this time with an eye toward improving readability and keeping like-code together.
 
