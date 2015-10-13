@@ -52,6 +52,7 @@ Now you have a fresh new repo based on the solution to this repo. Your task is t
 1. Change the style of the list items to strike-through when the boxes are checked
 
 Consider the following questions.
+
 * Which file(s) did you visit to change the list item elements?
 * Which file(s) did you visit to dynamically change the style?
 * Did you create any new data in your solution?
